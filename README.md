@@ -14,4 +14,7 @@ xi=expanatory variables
 β0=y-intercept (constant term)
 βp=slope coefficients for each explanatory variable
 ϵ=the model’s error term (also known as the residuals)
+
+
+
 	
